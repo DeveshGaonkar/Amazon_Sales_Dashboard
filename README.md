@@ -33,11 +33,11 @@ Key Features:
 Prerequisites  
 Before using the Amazon Sales Dashboard, ensure that you have the following prerequisites:
 Power BI Desktop installed on your computer. You can download it from the official Power BI website (https://powerbi.microsoft.com/).
-A suitable dataset obtained from popular dataset-providing websites like Kaggle and others, which will serve as the data source for the dashboard.  
+A suitable dataset is obtained from popular dataset-providing websites like Kaggle and others, which will serve as the data source for the dashboard.  
 
 Installation  
 &nbsp;&nbsp; 1.	To install and set up the Amazon Sales Dashboard, follow these steps:  
-&nbsp;&nbsp; 2.	Download the dashboard files from the project repository on GitHub (provide the link to your GitHub repository).  
+&nbsp;&nbsp; 2.	Download the dashboard files from the project repository on GitHub.  
 &nbsp;&nbsp; 3.	Extract the downloaded files to a local directory.  
 &nbsp;&nbsp; 4.	Open Power BI Desktop.  
 &nbsp;&nbsp; 5.	Click on "File" in the menu bar and select "Open" to browse for the extracted dashboard file (.pbix format).  
