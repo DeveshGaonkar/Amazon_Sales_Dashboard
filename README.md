@@ -16,7 +16,7 @@ The Amazon Sales Dashboard is a user-friendly Power BI tool designed to provide 
 **Overview**  
 The Amazon Sales Dashboard provides Amazon sellers with a user-friendly interface to gain valuable insights into their sales data using datasets obtained from popular dataset-providing websites like Kaggle and others. It presents crucial information such as date, fulfillment status, sales channel, quantity, amount, and more, allowing sellers to monitor their business performance effectively.  
 
-<!-- ![1](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/4ca8857b-9c11-4872-9172-ad3594580df4) -->
+![1](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/050105a1-a8d5-42fd-8cca-b212853a4e1a)
 
 
 Key Features:  
@@ -49,19 +49,22 @@ The Amazon Sales Dashboard consists of several sections and features that provid
 1. Overview Section  
 The overview section provides a high-level summary of your sales performance. It includes key metrics such as Total Orders, Total Sales, Average Sales Orders, and Average Number of Orders per month. This section also includes visualizations for Statewise Sales, Citywise Total Order, Categorywise Quantity, and the sum of sales by Month, enabling you to quickly grasp the overall performance and identify trends.
 
-<!--![1](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/ed21cea4-8f50-4067-9214-29eeae2f77fd) -->
+
+![1](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/acd5b638-19ca-474f-911d-5ebeb3ec7b71)
 
 
  2. Orders  
 The Orders section focuses on analyzing order-related data. It includes a matrix table visualization that presents Order status by Courier, allowing you to track order fulfillment progress across different courier services. The map visualization displays the distribution of order counts by ship state, providing insights into the geographic distribution of orders. Additionally, donut charts present order counts based on different criteria, helping you understand patterns and proportions.
 
-<!-- ![2](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/2db2b295-9717-468d-989f-d3dabd1a439d) -->
+![2](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/aafbe29d-a336-4fe8-a06e-b82afcac6932)
+
 
 
 3. Category  
 The Category section analyzes sales data based on different categories. It includes a table visualization that presents Average Sales by B2B category, giving insights into the performance of different categories in terms of average sales. Another table visualization displays Category Sales by Month, allowing you to analyze sales trends for each category over time. Additionally, visuals such as Total Sales by category, Top 5 Category Count, and Saleswise Category by Month provide further insights into category-specific sales performance and trends.
 
-<!-- ![3](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/38d572a2-25b8-45a6-b761-0499062205e6) -->
+
+![3](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/3ea722d6-c834-4aab-a804-978d4770d765)
 
 
 **Using the Dashboard**
@@ -71,7 +74,7 @@ Navigation
 Exploring Data Visualizations  
 The data visualizations in the Amazon Sales Dashboard are interactive and allow you to explore your sales data. You can hover over data points to view tooltips with detailed information. Click on legends or categories in the visualizations to filter the data. Use slicers or filters to refine the data displayed in the visualizations. Apply drill-down or drill-through actions to access more granular details.
 
-<!-- ![4](https://github.com/DeveshGaonkar/Amazon_Sales_Dashboard/assets/138006145/a8b61a4d-f24d-4609-82da-627105fbc5e9) -->
+
 
 **Troubleshooting**  
 Common Issues
